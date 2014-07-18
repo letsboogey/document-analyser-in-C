@@ -5,5 +5,7 @@ Still a work in progress..at the moment this program simply counts the number of
 
 TODO:
 	-improve efficiency by sorting the linked list before outputting to csv
+	
 	-provide default name for csv files and allow option of user not providing the name
+	
 	-add a graphical user interface for the program 
